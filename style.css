@@ -507,3 +507,456 @@ box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
     width: 20% ;
 }
 
+/* <!-- play games online --> */
+
+.online-games-zone1-img{
+    width: 30%;
+    position: relative;
+    bottom: 135rem;
+    margin-right: 500px;
+}
+
+.online-games-zone2-img{
+    width: 15%;
+    position: relative;
+    bottom: 145.5rem;
+    margin-right: 150px;
+}
+
+.play-games{
+    font-size: 50px;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; /* 125% */
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+    bottom: 170rem;
+    margin-left: 600px;
+
+}
+
+
+
+.online-color{
+    color: #F948B2; 
+    position: relative;
+    margin-left: 700px;
+   
+}
+
+.any-time{
+    position: relative;
+    bottom: 176rem;
+    margin-left: 520px;
+}
+
+.online-deiatls-game{
+    color: #534C64;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    position: relative;
+    bottom: 178rem;
+    margin-left: 700px;
+}
+
+.online-anywhere{
+    position: relative;
+    bottom: 173rem;
+}
+
+.text-online-gemes-div{
+    margin-right: 80px;
+}
+
+.for-free-3rd-pera-online-games{
+    margin-right: 66px;
+}
+
+/* careers */
+
+.total-career-div{
+    position: relative;
+    bottom: 171rem;
+    background-color:  #FF42A5;
+    width: 1305px;
+    height: 700px;
+    flex-shrink: 0;
+}
+
+.career-details{
+    margin-left: 150px;
+    padding-top: 50px;
+}
+
+.carrer{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; /* 125% */
+    width: 426px;
+}
+
+.career-more-details{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    width: 680px;
+    position: relative;
+    bottom: 2rem;
+}
+
+.career-grow{
+    color: white;
+    
+}
+
+.career-grow-02{
+    color: #FFF;
+    margin-left: 370px;
+    position: relative;
+    bottom: 14rem;
+}
+
+.See-all-positions-btn{
+    display: inline-flex;
+    padding: 15px 30px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 48px;
+    border: none;
+    position: relative;
+    bottom: 13rem;
+    color:palevioletred ;
+    font-size: 15px;
+}
+
+.career-img{
+   width: 10%;
+
+}
+
+.carrer-child-img{
+    width: 600%;
+    margin-left: 680px;
+    position: relative;
+    bottom: 55rem;
+}
+
+/* Our Games */
+
+.total-our-games-div{
+    position: relative;
+    bottom: 165rem;
+    margin-left: 100px;
+}
+
+.action-game{
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1.2rem;
+}
+
+.fast-img-games-module :hover{
+   border: 2px solid goldenrod;
+   width: 200px;
+   height: 70px;
+   border-radius: 15px;
+   text-align: justify;
+}
+
+.s2nd-img-games-module{
+   margin-left: 210px;
+   position: relative;
+   bottom: 5rem;
+}
+
+.adventure-game{
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1.2rem;
+}
+
+.s2nd-img-games-module:hover{
+    border: 1px solid goldenrod;
+    width: 240px;
+    height: 80px;
+    border-radius: 15px;
+    text-align: justify;  
+}
+
+.s3rd-img-games-module{
+    margin-left: 450px;
+    position: relative;
+    bottom: 10rem;
+}
+
+.Arcade-Games{
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1.2rem;
+}
+
+.s3rd-img-games-module:hover{
+    border: 1px solid goldenrod;
+    width: 220px;
+    height: 80px;
+    border-radius: 15px;
+    text-align: justify;  
+}
+
+.s4rth-img-games-module{
+    margin-left: 680px;
+    position: relative;
+    bottom: 15rem;
+}
+
+.Educational-Games{
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1.2rem;
+}
+
+.s4rth-img-games-module:hover{
+    border: 1px solid goldenrod;
+    width: 245px;
+    height: 80px;
+    border-radius: 15px;
+    text-align: justify; 
+}
+
+.s5th-img-games-module{
+    margin-left: 930px;
+    position: relative;
+    bottom: 19.5rem;
+}
+
+.word-Games{
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1.2rem;
+}
+
+.s5th-img-games-module:hover{
+    border: 1px solid goldenrod;
+    width: 250px;
+    height: 80px;
+    border-radius: 15px;
+    text-align: justify;
+}
+
+.s6th-img-games-module{
+    position: relative;
+    bottom: 19rem;
+    margin-left: 25px;
+}
+
+.role-paiying-Games{
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1.2rem;
+}
+
+.s6th-img-games-module:hover{
+    border: 1px solid goldenrod;
+    width: 250px;
+    height: 80px;
+    border-radius: 15px;
+    text-align: justify;
+}
+
+.s7th-img-games-module{
+    margin-left: 300px;
+    position: relative;
+    bottom: 24rem;
+}
+
+.music-audio-Games{
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1.2rem;
+}
+
+.s7th-img-games-module:hover{
+    border: 1px solid goldenrod;
+    width: 280px;
+    height: 80px;
+    border-radius: 15px;
+    text-align: justify;
+}
+
+.s8th-img-games-module{
+    margin-left: 600px;
+    position: relative;
+    bottom: 29rem;
+}
+
+.puzzie-Games{
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1.2rem;
+
+}
+
+.s8th-img-games-module:hover{
+    border: 1px solid goldenrod;
+    width: 220px;
+    height: 80px;
+    border-radius: 15px;
+    text-align: justify;
+}
+
+.s9th-img-games-module{
+    margin-left: 840px;
+    position: relative;
+    bottom: 34rem;
+}
+
+.stategy-Games{
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1.2rem;
+}
+
+.s9th-img-games-module:hover{
+    border: 1px solid goldenrod;
+    width: 280px;
+    height: 80px;
+    border-radius: 15px;
+    text-align: justify;
+}
+
+/* footer */
+
+.total-footer-div{
+    position: relative;
+    bottom: 193rem;
+    
+}
+
+.total-footer-div{
+    background-color: #0B0223;
+    width: 1305px;
+    height: 600px;
+    flex-shrink: 0;
+}
+
+.footer-our-details{
+    padding-top: 60px;
+    text-align: center;
+}
+
+.gammer-footer{
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #FFF;
+}
+
+.gg-special-color{
+    color: #F948B2;
+}
+
+.total-footer-nav{
+   margin-left: 330px;
+}
+
+.footer-btn{
+    color: #FFF;
+    text-decoration: none;
+    margin: 22px;
+}
+
+.footer-all-btn-2{
+    position: relative;
+    bottom: 208rem;
+    margin-left: 340px;
+}
+
+.footer-btn2{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 20px;
+}
+
+.copyy-right{
+    color:wheat;
+    margin-left: 100px;
+    padding-top: 30px;
+}
+
