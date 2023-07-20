@@ -1,0 +1,255 @@
+.total-nav{
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+    width: 1305px;
+    height: 130px;
+    flex-shrink: 0;
+}
+
+.gamer-imoji{
+    width: 86.041px;
+    height: 40px;
+    padding-top: 20px;   
+}
+
+.gammer{
+   margin-right: 930px;
+    position: relative;
+    bottom: 6rem;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.gamer-div{
+    margin-left: 50px;
+}
+
+.g-special-color{
+    color:  #FF42A5;
+    margin-left: 50px;
+
+}
+
+.youtube-icon{
+    width: 15%;
+    position: relative;
+    bottom: 2.5rem;
+    margin-left: 105px;
+}
+
+.tiktok{
+    width: 12%;
+    position: relative;
+    bottom: 5.6rem;
+    margin-left: 137px;
+    
+}
+
+.followuson{
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    height: 35px;
+    width: 180px;
+    margin-left: 180px;
+    position: relative;
+    bottom: 2.9rem;
+}
+
+.follow-us-nav{
+   padding-top: 10px;
+   color: #3C354F;
+   font-family: Work Sans;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: normal;
+   text-decoration: none;
+}
+
+.aboutUs-nav{
+    color: #3C354F;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.developers-nav{
+    color: #3C354F;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.left-side-nav{
+    margin-left: 750px;
+    position: relative;
+    bottom: 10.7rem;
+}
+
+.nav-icon{
+    margin-left: 10px;
+}
+
+/* Header peragraph */
+
+.total-header-peragraph{
+    background: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+    width: 1305px;
+    height: 600px;
+}
+
+.play-like-the{
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 70px;
+}
+
+.goat{
+    font-family: Work Sans;
+    font-size: 95px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 70px;
+    position: relative;
+    bottom: 6rem;
+}
+
+.vidio-icon{
+    width: 3%;
+    position: relative;
+    bottom: 10rem;
+    margin-left: 70px;
+}
+
+.onclick{
+    position: relative;
+    bottom: 10.8rem;
+    color: #534C64;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: lowercase;
+    margin-left:5px ;
+}
+
+.dowonload-icon{
+    width: 3%;
+    position: relative;
+    bottom: 10rem;
+    margin-left: 70px;
+}
+
+.no-download{
+    position: relative;
+    bottom: 11rem;
+    margin-left:5px ;
+    color: #534C64;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.contact-icon{
+    width: 3%;
+    position: relative;
+    bottom: 10rem;
+    margin-left: 70px;
+}
+
+.contact{
+    position: relative;
+    bottom: 10.8rem;
+    margin-left:5px ;
+    color: #534C64;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.Sign-in-btn{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 48px;
+    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+    border: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 55px;
+    position: relative;
+    bottom: 10rem;
+}
+
+.go-rogue{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 48px;
+    background: #4EC5F7;
+    border: none;
+    color: white;
+    font-size: 20px;
+    margin: 25px;
+    position: relative;
+    bottom: 10rem;
+}
+
+.header-img{
+    width: 60%;
+    margin-left: 345px;
+    position: relative;
+    bottom: 20rem;
+}
+
+.total-peragrap-div{
+    padding-top: 20px;
+}
+
+
+
+@media screen and (min-width:576px) and (max-width:960px){
+    .gamer-imoji{
+        display: grid;
+        flex-direction:column;
+        background-color: aqua;
+        margin-left: 300px;
+        
+        
+        
+    }
+}
+
