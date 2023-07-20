@@ -139,24 +139,26 @@ box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
 }
 
 .vidio-icon{
-    width: 3%;
+    width: 10%;
     position: relative;
     bottom: 10rem;
     margin-left: 70px;
 }
 
-.onclick{
+.onnnnclick{
     position: relative;
-    bottom: 10.8rem;
+    bottom: 9.8rem;
     color: #534C64;
     text-align: center;
     font-family: Work Sans;
     font-size: 20px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 2000;
     line-height: normal;
     text-transform: lowercase;
-    margin-left:5px ;
+    margin-right: 500px;
+
+    
 }
 
 .dowonload-icon{
@@ -958,5 +960,16 @@ box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
     color:wheat;
     margin-left: 100px;
     padding-top: 30px;
+}
+
+.social-media-icon{
+position: relative;
+bottom: 213rem;
+margin-left: 440px;
+}
+
+.social-footer-icon{
+    width: 3%;
+    margin: 20px;
 }
 
